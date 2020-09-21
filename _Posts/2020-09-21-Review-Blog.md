@@ -1,6 +1,14 @@
 # *Two Plantations*
 ## A Critical Review
- [Two Plantations](http://twoplantations.com) is a DH project about what it was like to be enslaved either in The US (Virginia) or in Jamaica. This project had many interesting components. For example, the way that it is set up is very organized in a way that if you click on one of the headers towards the top it will take you right to the section you are looking for. I also wanted to add that the small bite size paragraphs were awesome for an online project. It is more likely to grab the reader's attention.
+ ### Project: Enslaved Families in Virginia and Jamaica
+ ### Project Director: Richard Dunn
+ ### Project URl:http://twoplantations.com
+ ### Projust Reviewer: Alyssa Meyer
+ 
+ 
+ [Two Plantations](http://twoplantations.com) is a DH project about what it was like to be enslaved either in The US (Virginia) or in Jamaica. This project shows the lineages between seven  families between two plantations in two different countries. The idea of the project is to give information about the family life of a slave and even how much each slave was worth at a particular time in their life.
+
+ This project had many interesting components. For example, the way that it is set up is very organized in a way that if you click on one of the headers towards the top it will take you right to the section you are looking for. I also wanted to add that the small bite size paragraphs were awesome for an online project. It is more likely to grab the reader's attention.
  
  At the top there is a small walkthrough of information about what it was like to be a slave in those times and it gives a lot of good information and behind the words also draws the attention of readers. The images behind the words help draw in the reality of life back then and provides an image that helps the reader imagine what the plantations would have looked like. ![This is an example from the top where it is talking about what it was like to be enslaved at the plantation in Mount Airy](https://raw.githubusercontent.com/AlyssaM9988/alyssa-meyer/master/Screen%20Shot%202020-09-21%20at%2010.08.51%20AM.png)
 
