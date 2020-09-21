@@ -2,11 +2,11 @@
 ## A Critical Review
  ### Project: Enslaved Families in Virginia and Jamaica
  ### Project Director: Richard Dunn
- ### Project URl:http://twoplantations.com
+ ### Project URl: http://twoplantations.com
  ### Projust Reviewer: Alyssa Meyer
  
  
- [Two Plantations](http://twoplantations.com) is a DH project about what it was like to be enslaved either in The US (Virginia) or in Jamaica. This project shows the lineages between seven  families between two plantations in two different countries. The idea of the project is to give information about the family life of a slave and even how much each slave was worth at a particular time in their life.
+ [Two Plantations](http://twoplantations.com) is a DH project about what it was like to be enslaved either in The US (Virginia) or in Jamaica. This project shows the lineages between seven  families between two plantations in two different countries. The idea of the project is to give information about the family life of a slave. Little information is known about slaves lives including parents and how they died. This is a common theme in the project between all the descriptions
 
  This project had many interesting components. For example, the way that it is set up is very organized in a way that if you click on one of the headers towards the top it will take you right to the section you are looking for. I also wanted to add that the small bite size paragraphs were awesome for an online project. It is more likely to grab the reader's attention.
  
