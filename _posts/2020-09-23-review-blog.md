@@ -8,7 +8,7 @@
  
  [Two Plantations](http://twoplantations.com) is a DH project about what it was like to be enslaved either in The US (Virginia) or in Jamaica. This project shows the lineages between seven  families between two plantations in two different countries. The idea of the project is to give information about the family life of a slave. Little information is known about slave's lives but this project helps show what is known in an interesting way.
  
-  This project was designed by [Grafton Studio](https://graftonstudio.com) which is an online web design and development agency. There were many people who also helped create the project other than the project director. Including J.T. White, Yanni Loukissas, Sean Treacy, Alec Harrison, Luke Peters, Naor Ben-Yehoyada, Benjamin Weber, Bradley Craig, Ajantha Subramanian, Carina Schorske, Cory Paulsen, Rebecca Ladbury, and Rhae Lynn Barnes. These individuals helped by providing intellectual and administrative contributions to the project.
+ This project was designed by Grafton Studio which is an online web design and development agency. There were many people who also helped create the project other than the project director. Including J.T. White, Yanni Loukissas, Sean Treacy, Alec Harrison, Luke Peters, Naor Ben-Yehoyada, Benjamin Weber, Bradley Craig, Ajantha Subramanian, Carina Schorske, Cory Paulsen, Rebecca Ladbury, and Rhae Lynn Barnes. These individuals helped by providing intellectual and administrative contributions to the project.
 
  This project had many interesting components. For example, the way that it is set up is very organized in a way that if you click on one of the headers towards the top it will take you right to the section you are looking for. I also wanted to add that the small bite size paragraphs were awesome for an online project. It is more likely to grab the reader's attention.
  
@@ -24,4 +24,6 @@ The Male and female boxes in the family tree section were a good idea. Each shap
 The section called Family Lists has a search bar tool which is a smart add-on because it makes finding a specific person easier in each of the three lineages. WHen using the search bar if we look up the name Minny her name pops up with all the information about her. So the issue of not being able to see all of her description in the family tree section doesn't seem as bad now because of this function. But the issue should still be fixed in the family tree section.
 
 In the written analysis in the project the first paragraph was concise and had a lot of details. But as you move to the second and third paragraphs it gets a little confusing. The second paragraph is full of questions which is good. But the main issue is that the questions are never answered even within the project itself. This leaves the reader more confused about the point of the project and what they have actually learned from reading it. 
+
+
 
