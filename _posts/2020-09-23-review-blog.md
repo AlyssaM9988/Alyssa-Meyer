@@ -28,5 +28,5 @@ The section called Family Lists has a search bar tool which is a smart add-on be
 
 In the written analysis in the project the first paragraph was concise and had a lot of details. But as you move to the second and third paragraphs it gets a little confusing. The second paragraph is full of questions which is good. But the main issue is that the questions are never answered even within the project itself. This leaves the reader more confused about the point of the project and what they have actually learned from reading it. 
 
-This DH project has helped readers understand more about slave families in the old days and with the fun interactive portions it makes learning more interesting and hands on. The critiques given were small and were based on the design never the information. With a few small fixes to the design this project will be more equipped to make learning about this topic easier and more fun!
+This DH project has helped readers understand more about slave families in the old days and with the fun interactive portions it makes learning more interesting and hands on. The critiques given were based on the design never the information. With a few small fixes to the design this project will be more equipped to make learning about this topic easier and more fun!
 
