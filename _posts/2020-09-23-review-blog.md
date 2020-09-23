@@ -11,9 +11,7 @@
 ### Project Reviewer: Alyssa Meyer
  
  
- [Two Plantations](http://twoplantations.com) is a DH project about what it was like to be enslaved either in The US (Virginia) or in Jamaica. This project shows the lineages between seven  families between two plantations in two different countries. The idea of the project is to give information about the family life of a slave. Little information is known about slave's lives but this project helps show what is known in an interesting way.
- 
- This project was designed by Grafton Studio which is an online web design and development agency. There were many people who also helped create the project other than the project director. Including J.T. White, Yanni Loukissas, Sean Treacy, Alec Harrison, Luke Peters, Naor Ben-Yehoyada, Benjamin Weber, Bradley Craig, Ajantha Subramanian, Carina Schorske, Cory Paulsen, Rebecca Ladbury, and Rhae Lynn Barnes. These individuals helped by providing intellectual and administrative contributions to the project.
+ [Two Plantations](http://twoplantations.com) is a DH project about what it was like to be enslaved either in The US (Virginia) or in Jamaica. It was created by using the tools of [Grafton Studio](https://graftonstudio.com) which helps with the web design of the project. This project shows the lineages between seven  families between two plantations in two different countries. The idea of the project is to give information about the family life of a slave. Little information is known about slave's lives but this project helps show what is known in an interesting way.
 
  This project had many interesting components. For example, the way that it is set up is very organized in a way that if you click on one of the headers towards the top it will take you right to the section you are looking for. I also wanted to add that the small bite size paragraphs were awesome for an online project. It is more likely to grab the reader's attention.
  
