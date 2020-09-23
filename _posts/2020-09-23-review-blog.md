@@ -1,13 +1,13 @@
 # *Two Plantations*
-<br/>
+
 ## A Critical Review
-<br/>
+
 ### Project: Enslaved Families in Virginia and Jamaica
-<br/>
+
 ### Project Director: Richard Dunn
-<br/>
+
 ### Project URl: http://twoplantations.com
-<br/>
+
 ### Project Reviewer: Alyssa Meyer
  
  
