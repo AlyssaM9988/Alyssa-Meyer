@@ -1,4 +1,5 @@
-#Grant Project
+# Grant Project
+
 The research that I have been doing for my grant project is about Mesoamerican civilizations: the Incan, Mayan, and Aztec civilizations. By reading different articles and books I have learned a lot about the architecture of these civilizations which is what my grant project is all about. The research took a while to obtain by looking through the different pages of various books and articles but is starting to really come together. These civilizations were advanced for the timeframe in which they ruled and looking at their architecture all together is inspiring. 
 
 
